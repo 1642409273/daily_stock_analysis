@@ -2,6 +2,7 @@
 """
 Tests for AgentExecutor with mocked LLM adapter.
 
+
 Covers:
 - ReAct loop: tool-calling → result feedback → final answer
 - Dashboard JSON parsing (markdown blocks, raw JSON, json_repair)
